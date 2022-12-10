@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "audio-buffer-from": "^1.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.6.1",
     "multer": "^1.4.1",
     "save-file": "^2.3.1",
